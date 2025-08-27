@@ -18,7 +18,7 @@ A lightweight Python tool designed to send multiple SMS messages to a target num
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/yourusername/sms-bomber.git
+git clone https://github.com/F2Codes/Star-SMS-Bomber.git
 cd sms-bomber
 pip install -r requirements.txt
 python bomber.py
